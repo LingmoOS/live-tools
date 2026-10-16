@@ -1,3 +1,10 @@
+live-tools (1:20240525+lingmo1) unstable; urgency=medium
+
+  * Lingmo fork 起点：内容与 Debian trixie 的 1:20240525 一致，
+    仅加入 Lingmo 的 OBS 上传 CI。
+
+ -- Lingmo OS Team <team@lingmo.org>  Fri, 16 Oct 2026 22:23:10 +0800
+
 live-tools (1:20240525) unstable; urgency=medium
 
   [ Juergen Fiedler ]
